@@ -1,0 +1,22 @@
+Removed Pin From Net: NetName=NetC8_1 Pin=X1-1
+Removed Pin From Net: NetName=NetC9_1 Pin=X1-2
+Removed Member From Class: ClassName=Feeder Member=X1
+Added Component: Designator=Y1(RH10012000182020TR)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.raltron.com/wp-content/uploads/2017/08/RH100_SERIES-August-2017.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.8mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "RALTRON"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "RH100-12.000-18-2020-TR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC8_1 Pin=Y1-1
+Added Pin To Net: NetName=GND Pin=Y1-2
+Added Pin To Net: NetName=NetC9_1 Pin=Y1-3
+Added Pin To Net: NetName=GND Pin=Y1-4
+Added Member To Class: ClassName=Feeder Member=Component DS4 LED 1206
+Added Member To Class: ClassName=Feeder Member=Component L1 AISC-1210-33NJ-T
+Added Member To Class: ClassName=Feeder Member=Component R12 1K
+Added Member To Class: ClassName=Feeder Member=Component U2 ULN2003ADRG3
+Added Member To Class: ClassName=Feeder Member=Component Y1 RH100-16.000-18-2020-TR
+Added Room: Name=Feeder

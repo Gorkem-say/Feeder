@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=VCC Pin=J13-2
+Removed Pin From Net: NetName=VCC Pin=J13-3
+Added Pin To Net: NetName=VCC Pin=J13-1
+Added Pin To Net: NetName=VPOWER Pin=J13-2
+Added Pin To Net: NetName=VPOWER Pin=J13-3
+Added Net: Name=VPOWER
+Added Room: Name=Feeder

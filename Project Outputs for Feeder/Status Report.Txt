@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [Feeder.PrjPcb]
+   Generated File[Feeder.TXT]
+   Generated File[Feeder.LDP]
+   Generated File[Feeder.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 10:21:45 AM On 10/16/2023

@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=IN1 Pin=U1-9
+Removed Pin From Net: NetName=IN2 Pin=U1-10
+Removed Pin From Net: NetName=IN3 Pin=U1-11
+Removed Pin From Net: NetName=IN4 Pin=U1-12
+Added Pin To Net: NetName=IN4 Pin=U1-9
+Added Pin To Net: NetName=IN3 Pin=U1-10
+Added Pin To Net: NetName=IN2 Pin=U1-11
+Added Pin To Net: NetName=IN1 Pin=U1-12
+Added Room: Name=Feeder

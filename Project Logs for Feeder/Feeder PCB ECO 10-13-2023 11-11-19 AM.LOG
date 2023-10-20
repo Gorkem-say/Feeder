@@ -1,0 +1,6 @@
+Added Component: Designator=D?(FP-SS34LWH-MFG)
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VCC Pin=D?-1
+Added Pin To Net: NetName=VUSB Pin=D?-2
+Added Member To Class: ClassName=Feeder Member=Component D? SS34
+Added Room: Name=Feeder
