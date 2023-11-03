@@ -6,6 +6,7 @@ One of the operation is to just drive stepper driver. The arduino IDE file is ST
 Other operation is to set 2 schedules to feed animals at specific weight of the food. the load cell can be calibrated if button is pressed. This IDE file is fsmwithtime.
 
 
+![Capture](https://github.com/Gorkem-say/Feeder/assets/5795091/e2b349d4-6c48-4af6-b3de-148b579bfca6)
 
 
 
