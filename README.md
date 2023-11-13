@@ -10,6 +10,11 @@ Other operation is to set 2 schedules to feed animals at specific weight of the 
 
 
 
+
+
+To understand if food is low in the storage, the IR emitter and photodiode is connected. IR emitter is connected with 470 ohm to 5 v and ground. in bulb big plate is anode(positive). photo transistor is pulled up to 5v with 2.2k. 
+Junction of the photodiode and resistor connected to digital pin to detect if there is voltage or not. Other pin of the photodiode is gnd.
+
 Example code is shown below. The code can calibrate load cell when button cell is pressed. Also 2 scheduled feeding process is adjusted. Moreover RTC is connected. Target weight is 35 gram
 
 
